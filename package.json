@@ -1,0 +1,14 @@
+{
+  "name": "@hanani/testpackage2",
+  "version": "1.0.0",
+  "description": "second time test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hanani"
+  ],
+  "author": "Hanani Rafei",
+  "license": "MIT"
+}

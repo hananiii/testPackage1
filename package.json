@@ -10,5 +10,8 @@
     "hanani"
   ],
   "author": "Hanani Rafei",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
 }
